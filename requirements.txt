@@ -2,4 +2,4 @@ colorama
 requests
 argparse
 python-Wappalyzer
-setuptools
+setuptools<82
